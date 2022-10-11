@@ -1,0 +1,23 @@
+Inspirationen/Libraries für das Portfolio
+
+Inspirationen:
+https://www.awwwards.com/websites/portfolio/
+https://www.shopify.com/partners/blog/web-design-portfolio-inspiration
+
+
+
+Libraries:
+    css:
+https://animate.style/
+https://www.minimamente.com/project/magic/
+https://bansal.io/pattern-css
+
+    js:
+https://animejs.com/
+https://threejs.org/
+
+
+Resources:
+https://htmlcheatsheet.com/css/#
+http://styleguides.io/
+https://webdevresources.info/
